@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Simulating bedrock landslides with Landlab
 
-You can use the [editor on GitHub](https://github.com/csdms/hylands_modeling/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Introduction to Landlab
+* [Introduction to Landlab](https://landlab.readthedocs.io/en/latest/index.html) and [tutorials](https://landlab.readthedocs.io/en/latest/user_guide/tutorials.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Bedrock landslides
+* [Bedrock landslides on existing topography (SRTM DEM)](./hylands_real/bedrockLandslides_on_DEMs.ipynb)
 
-### Markdown
+### Large scale landscape evolution models
+* [Large scale landscape evolution using real topography](./large_scale_LEM/large_scale_LEMs-real-topography.ipynb)
+* [Large scale landscape evolution](./large_scale_LEM/large_scale_LEMs.ipynb)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/csdms/hylands_modeling/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### HyLands (Hybrid Landscape evolution model)
+* [HyLands](./hylands_LEM/HyLandsTutorial.ipynb)
