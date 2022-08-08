@@ -1,4 +1,6 @@
-title: Minimal theme
+title: HyLands
 logo: /assets/HyLands_Logo.png
-description: Minimal is a theme for GitHub Pages.
+description: |
+  HyLands is the Hybrid Landscape evolution model, a part of Landlab. Lead
+  developer: Benjamin Campforts (@BCampforts).
 theme: jekyll-theme-minimal
