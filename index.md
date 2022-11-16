@@ -1,8 +1,8 @@
 # Simulating bedrock landslides with Landlab
 
 The Jupyter Notebooks in the links below
-open on the [OpenEarthscape][oes] [JupyterHub][hub].
-This JupyterHub is free and available for use by all CSDMS members.
+open on the [OpenEarthscape][oes] [JupyterHub][hub],
+which is freely available for use by all CSDMS members.
 Please see [these instructions][hub-login] to get a login and sign in. 
 
 ### Introduction to Landlab
